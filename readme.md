@@ -6,11 +6,11 @@
 
 This project is to output a random message upon each run of the program.
 
-The messages are kept in a text file (messages.text), one message per line.  The application reads in the text file to an array, and then randomly selects on of those message to display.
+The messages are kept in a text file (messages.text), one message per line.  The application reads in the text file to an array, and then randomly selects one of those messages to display.
 
 ### Technologies
 
-The program is built using JavaScript.  It's mean to run using node.js.
+The program is built using JavaScript.  It's meant to run using node.js.
 
 ### License
 
